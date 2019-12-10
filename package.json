@@ -1,0 +1,28 @@
+{
+  "name": "npm-jsonapi-handler",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helsingborg-stad/npm-jsonapi-handler.git"
+  },
+  "keywords": [
+    "jsonapi"
+  ],
+  "author": "Helsingborg Stad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/helsingborg-stad/npm-jsonapi-handler/issues"
+  },
+  "homepage": "https://github.com/helsingborg-stad/npm-jsonapi-handler#readme",
+  "dependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.7.2",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "json-api-serializer": "^2.2.2"
+  }
+}
